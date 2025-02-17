@@ -6,7 +6,7 @@ import tiktok; import proxies; import creator: import account; import time
 # Creating accounts 
 
 from tiktok import accounts 
-from account import email, password, username 
+from account import email, password, rwozex_n
 from proxies import * 
 
 creator.init(tiktok.com --accounts)
